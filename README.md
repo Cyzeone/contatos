@@ -55,6 +55,7 @@ INSERT INTO contatos (nome, email, telefone) VALUES
 ('Pedro Oliveira', 'pedro.oliveira@email.com', '21 88888-7777'),
 ('Mariana Souza', 'mariana.souza@email.com', '31 77777-6666'),
 ('Lucas Santos', 'lucas.santos@email.com', '41 66666-5555');
+```
 
 6. Abra o navegador e acesse:
 
@@ -123,6 +124,7 @@ INSERT INTO contatos (nome, email, telefone) VALUES
 ('Pedro Oliveira', 'pedro.oliveira@email.com', '21 88888-7777'),
 ('Mariana Souza', 'mariana.souza@email.com', '31 77777-6666'),
 ('Lucas Santos', 'lucas.santos@email.com', '41 66666-5555');
+```
 
 6. Open your browser and go to:
 
