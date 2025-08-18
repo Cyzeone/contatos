@@ -17,7 +17,7 @@ Projeto de uma aplicação web para gerenciamento de contatos, desenvolvido em P
 
 - **PHP** (Back-end)
 - **MySQL** (Banco de dados)
-- **HTML5 / CSS3 / JavaScript** (Front-end)
+- **HTML5 / CSS3** (Front-end)
 - **XAMPP** (Ambiente de desenvolvimento local)
 
 ## 📂 Como Rodar o Projeto
@@ -86,7 +86,7 @@ A web application for managing contacts, developed with PHP and MySQL, using **X
 
 - **PHP** (Back-end)
 - **MySQL** (Database)
-- **HTML5 / CSS3 / JavaScript** (Front-end)
+- **HTML5 / CSS3** (Front-end)
 - **XAMPP** (Local development environment)
 
 ## 📂 How to Run the Project
