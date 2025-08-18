@@ -1,4 +1,4 @@
-# 📇 Sistema de Contatos-
+# 📇 Sistema de Contatos
 
 🌎 English version available below.
 
